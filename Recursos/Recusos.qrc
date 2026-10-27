@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="Logo">
+    <file>Tienda segura con candado y carrito.png</file>
+  </qresource>
+</RCC>
