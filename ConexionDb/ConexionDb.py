@@ -6,7 +6,7 @@ class ConexionDb:
     _Conf = {
         'host': 'localhost',
         'user': 'root',
-        'password': os.environ.get('DB_PASSWORD', ''),
+        'password': 'Swnfran.24',
         'database': 'dbtienda',        
         'port': 3306                     
     }
